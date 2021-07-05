@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jesse Ackerman
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning React.js
+- 🌱 I’m currently learning React.js & jQuery
 - 💞️ I’m looking to collaborate on improving website interface
 - 📫 I can be reached at acker182x@gmail.com
 
